@@ -1,5 +1,6 @@
 package week6;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
@@ -32,13 +33,14 @@ public class Word implements IWord {
 
     @Override
     public IWord reverseWord() {
-        List<String> tempValue = value;
+        List<String> tempValue = new ArrayList<>(value);
         Collections.reverse(tempValue);
         return new Word(tempValue);
     }
 
     @Override
     public boolean isPalindrome() {
+
         return this.reverseWord().equals(this);
     }
 

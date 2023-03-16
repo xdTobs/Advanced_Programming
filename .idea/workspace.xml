@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08c7a305-db0a-4051-8b59-0c8fb56377b5" name="Changes" comment="week1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/week6/IWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week6/PrintPalindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week6/Word.java" afterDir="false" />
+    <list default="true" id="08c7a305-db0a-4051-8b59-0c8fb56377b5" name="Changes" comment="working PrintPalindromes.java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/week7/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week7/CopyFileUsingByteStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week7/ReadDir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week7/ReadWriteComplex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week7/complexNums" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week6/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week6/Word.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +45,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/tobia/IdeaProjects/Advanced Programming Projects/Advanced Programming&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
@@ -95,7 +99,9 @@
       <workItem from="1677162558769" duration="1438000" />
       <workItem from="1677185871310" duration="18000" />
       <workItem from="1678055956214" duration="34000" />
-      <workItem from="1678369696537" duration="4328000" />
+      <workItem from="1678369696537" duration="5845000" />
+      <workItem from="1678974386557" duration="3439000" />
+      <workItem from="1678977921490" duration="2544000" />
     </task>
     <task id="LOCAL-00001" summary="week1">
       <created>1675350322971</created>
@@ -104,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675350322971</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="working PrintPalindromes.java">
+      <created>1678374993314</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678374993314</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,15 +136,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="week1" />
-    <option name="LAST_COMMIT_MESSAGE" value="week1" />
+    <MESSAGE value="working PrintPalindromes.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="working PrintPalindromes.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/week6/PrintPalindromes.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="4" />
+          <url>file://$PROJECT_DIR$/src/main/java/week7/ReadDir.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
